@@ -1,0 +1,9 @@
+POST http://localhost:8000/api/get_app_icon
+Content-Type: application/x-www-form-urlencoded
+
+app=com.giraffegames.cartunning
+
+### пример с анимированным хедером
+### app=leagueofmonkeys.torqueburnout
+
+
